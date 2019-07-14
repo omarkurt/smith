@@ -75,7 +75,6 @@
 /sitemap.xml
 /sites/default/files/backup_migrate/
 /trace.axd
-/webalizer/
 /wsman
 /.git
 /.git/config
